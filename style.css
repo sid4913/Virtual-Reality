@@ -1,0 +1,149 @@
+body{
+  margin-top: 65px;
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #190628;
+  color: #ffffff;
+}
+
+.nav-item a {
+	font-weight: 600;
+	color: #ffffff;
+
+}
+#hero .hero-left img{
+	padding: 25px;
+ 	width: 80%;
+}
+
+#hero h1{
+  font-size: 50px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  margin-top: 30px;
+  color: #42E5E6;
+
+}
+
+#hero p{
+  line-height: 2.4;
+  color: #ffffff;
+}
+
+#hero{
+	background-color: #190628;
+}
+
+#tech h1{
+  font-size: 50px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  color: #42E5E6;
+
+}
+
+#tech p{
+  line-height: 2.4;
+  color: #ffffff;
+}
+
+
+h2 {
+	color: #42E5E6;
+	font-size: 36px;
+	font-weight: 600;
+}
+
+h3 {
+	font-weight: 600;
+}
+
+#tech {
+	margin-top: 50px;
+	padding-bottom: 50px;
+}
+
+.hardware {
+	margin-top: 50px;
+}
+
+.desc-right {
+	padding-top: 80px;
+}
+
+.desc-left {
+	padding-top: 70px;
+}
+
+#tech .col-12{
+	padding: 25px;
+}
+
+#tech img{
+	padding-top: 0px;
+}
+
+.soft{
+	padding-top: 0px;
+}
+
+.slideshow {
+	padding-top: 25px;
+}
+
+#games .col-12{
+	padding: 25px;
+}
+
+#games h5{
+	padding-top: 30px;
+}
+
+h5 {
+	font-weight: 600;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #E03281;
+    border-color: #E03281;
+    letter-spacing: 1.1px;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #42E5E6;
+    border-color: #42E5E6; 
+}
+
+#social {
+	background-color: #06020a;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.soc-icons{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.fa-facebook-f, .fa-twitter, .fa-instagram, .fa-twitch {
+	color: #E03281;
+}
+
+
+.fa-facebook-f:hover,
+.fa-twitter:hover,
+.fa-instagram:hover,
+.fa-twitch:hover {
+	color: #42E5E6;
+}
+
+
+
+
+
+
+
+
